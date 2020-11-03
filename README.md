@@ -1,0 +1,1 @@
+This is Wtizanay's first GIT project
